@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="false" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level14/lesson06/home01/BelarusianHen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level14/lesson06/home01/Hen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level14/lesson06/home01/MoldovanHen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level14/lesson06/home01/RussianHen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level14/lesson06/home01/UkrainianHen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level14/lesson08/home02/BubblyWine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level14/lesson08/home02/Drink.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level14/lesson08/home02/Wine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level15/lesson12/Solution.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level15/lesson12/bonus01/Helicopter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level15/lesson12/bonus01/Plane.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level15/lesson12/bonus02/LatteMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level15/lesson12/bonus02/TeaMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level16/lesson13/bonus01/ImageReaderFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level16/lesson13/bonus01/common/BmpReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level16/lesson13/bonus01/common/JpgReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level16/lesson13/bonus01/common/PngReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level21/lesson16/big01/Hippodrome.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level21/lesson16/big01/Horse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level23/lesson08/home01/vo/Location.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level23/lesson08/home01/vo/Server.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level23/lesson08/home01/vo/Subject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level23/lesson08/home01/vo/Subscription.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level23/lesson08/home01/vo/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level27/lesson15/big01/ConsoleHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level27/lesson15/big01/Restaurant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level27/lesson15/big01/Tablet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level27/lesson15/big01/kitchen/Cook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level27/lesson15/big01/kitchen/Dish.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level27/lesson15/big01/kitchen/Order.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level28/lesson06/home01/MyThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level28/lesson15/big01/Aggregator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level28/lesson15/big01/Controller.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level28/lesson15/big01/model/HHStrategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level28/lesson15/big01/model/Provider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level28/lesson15/big01/model/Strategy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level28/lesson15/big01/vo/Vacancy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level30/lesson04/home01/Consumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level30/lesson04/home01/Producer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level31/lesson15/big01/ZipFileManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level31/lesson15/big01/command/Command.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level31/lesson15/big01/command/ExitCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/my/decided/tasks/level32/lesson08/home01/CustomInvocationHandler.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

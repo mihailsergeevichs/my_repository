@@ -1,0 +1,11 @@
+127.0.0.1 - - [24/Oct/2015:12:39:50 +0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Oct/2015:12:40:13 +0300] "GET /Freemarker_SpringMVC_example/index.html HTTP/1.1" 200 1858
+0:0:0:0:0:0:0:1 - - [24/Oct/2015:12:40:27 +0300] "POST /Freemarker_SpringMVC_example/add.html HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Oct/2015:12:40:28 +0300] "GET /Freemarker_SpringMVC_example/index.html HTTP/1.1" 200 1916
+127.0.0.1 - - [24/Oct/2015:12:55:04 +0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Oct/2015:12:55:21 +0300] "GET /Freemarker_SpringMVC_example/index.html HTTP/1.1" 200 1847
+0:0:0:0:0:0:0:1 - - [24/Oct/2015:12:55:38 +0300] "POST /Freemarker_SpringMVC_example/add.html HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Oct/2015:12:55:39 +0300] "GET /Freemarker_SpringMVC_example/index.html HTTP/1.1" 200 1901
+0:0:0:0:0:0:0:1 - - [24/Oct/2015:12:55:45 +0300] "GET /Freemarker_SpringMVC_example/google.com HTTP/1.1" 404 1072
+127.0.0.1 - - [24/Oct/2015:12:56:48 +0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Oct/2015:12:56:56 +0300] "GET /Freemarker_SpringMVC_example/index.html HTTP/1.1" 200 1854

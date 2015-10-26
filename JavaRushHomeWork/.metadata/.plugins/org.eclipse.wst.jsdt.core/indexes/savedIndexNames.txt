@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+E:\JavaRushHomeWork\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1017433932.index
+3100744298.index
+462263988.index
+1293296139.index
+2075775895.index
